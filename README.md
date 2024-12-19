@@ -10,6 +10,8 @@
 ## Day 1 (Friday)
 ### Montmartre & Pigalle Day
 
+[Day 1 route]([https://www.google.com/maps?q=LOCATION](https://www.google.com/maps/dir/Datadog,+Rue+de+Ch%C3%A2teaudun,+Paris,+France/Sacr%C3%A9-C%C5%93ur+Basilica,+rue+du+Chevalier-de-La-Barre,+Paris,+France/Place+du+Tertre,+Place+du+Tertre,+Paris,+France/La+Maison+Rose,+Rue+de+l'Abreuvoir,+Paris,+France/Le+Consulat,+Rue+Norvins,+Paris,+France/Rue+des+Abbesses,+75018+Paris,+France/Pl.+des+Abbesses,+75018+Paris,+France/Moulin+Rouge,+Boulevard+de+Clichy,+Paris,+France/Pl.+Pigalle,+Paris,+France/@48.8809037,2.3301616,15.24z/data=!3m1!5s0x47e66e4eff4a3311:0x290e821789a4719e!4m56!4m55!1m5!1m1!1s0x47e66e11837fb59b:0x2d53d091389aba01!2m2!1d2.3385585!2d48.8758847!1m5!1m1!1s0x47e66e5ccbdfcb83:0x7080acd10c465b03!2m2!1d2.3430625!2d48.8865349!1m5!1m1!1s0x47e66e4ffe8fd717:0xf4aa1f0840f0e862!2m2!1d2.3408022!2d48.8865032!1m5!1m1!1s0x47e66e5b15c20e73:0x99b831d8ba0d64b2!2m2!1d2.3396449!2d48.8879815!1m5!1m1!1s0x47e66e5b362da06b:0x565f3de5b5b36303!2m2!1d2.3398145!2d48.887061!1m5!1m1!1s0x47e66e451214b3c7:0x66a0f74a9e6b6c28!2m2!1d2.337454!2d48.8848982!1m5!1m1!1s0x47e66e44fddbfcdf:0x53511edb401a6e0b!2m2!1d2.3387397!2d48.8843091!1m5!1m1!1s0x47e66e4eff6f0c89:0xf44e90af87482111!2m2!1d2.3322519!2d48.8841232!1m5!1m1!1s0x47e66e45c560ae97:0x91f02e810c9b8f3f!2m2!1d2.3376652!2d48.8821843!3e2?coh=225988&entry=tt&g_ep=EgoyMDI0MTIxMS4wIPD2ASoASAFQAw%3D%3D&utm_medium=s2email))
+
 #### Morning: Arrival & Montmartre
 **10:00 AM** - Arrive at Gare du Nord
 - Transport to Montmartre:
